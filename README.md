@@ -1,5 +1,5 @@
 # HDLBits_Solution
-Included are comprehensive solution to the problem sets provided on [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page) as a practice purpose.
+Included are comprehensive solutions to the problem sets provided on [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page) as a practice purpose.
 
 There are multiple solutions to these problems so I collect both my thoughts and ideas written by the author.
 
