@@ -4,5 +4,5 @@ Included are comprehensive solutions to the problem sets provided on [HDLBits](h
 There are multiple solutions to these problems so I collect both my thoughts and ideas written by the author.
 
 This practice is finished during the summer 2020.
-Hope it helps you. Enjoy!
+Hope it helps you. Feel free to share it and comments are welcomed!
 
